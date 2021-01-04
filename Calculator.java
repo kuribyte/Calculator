@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class Calculator {
+    
     // Add numbers
     public int addNumbers(int number_1, int number_2){
         int sumOfNumbers = number_1 + number_2;
